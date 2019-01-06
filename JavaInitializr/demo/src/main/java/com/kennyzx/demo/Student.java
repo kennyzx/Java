@@ -23,7 +23,7 @@ public class Student {
     public void setId(long id) { this.id = id; }
 
     public String getName() { return name;} 
-    public void setId(String name) { this.name = name; }
+    public void setName(String name) { this.name = name; }
 
     public String getPassport() { return passport;} 
     public void setPassport(String passport) { this.passport = passport; } 
